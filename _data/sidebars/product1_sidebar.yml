@@ -38,3 +38,7 @@ entries:
     - title: Order Details
       url: /OrderDetails.html
       output: web, pdf
+
+    - title: User Details
+      url: /UserDetails.html
+      output: web, pdf
