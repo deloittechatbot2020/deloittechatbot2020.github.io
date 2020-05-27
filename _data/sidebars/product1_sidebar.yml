@@ -43,26 +43,18 @@ entries:
     output: web, pdf
 
     folderitems:
-    - title: Sample 4
-      url: /p1_sample4.html
+    - title: All Data Model
+      url: /AllDataModel.html
       output: web, pdf
 
-    - title: Sample 5
-      url: /p1_sample5.html
-      output: web, pdf
-
-    - title: Sample 6
-      url: /p1_sample6.html
-      output: web, pdf
-
-    - title: Sample x
-      url: /CustomerComplaint.html
+    - title: Cancel Order
+      url: /CancelOrder.html
       output: web, pdf
 
     - title: Order status
       url: /OrderStatus.html
       output: web, pdf
 
-    - title: Sample 7
-      url: /p1_sample7.html
+    - title: Order Details
+      url: /OrderDetails.html
       output: web, pdf

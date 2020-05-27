@@ -1,9 +1,9 @@
 ---
-title: Order status Topic (Product 1)
+title: Order Details Topic (Product 1)
 keywords: sample
 summary: "This is just a sample topic..."
 sidebar: product1_sidebar
-permalink: OrderStatus.html
+permalink: OrderDetails.html
 folder: product1
 
 ---
@@ -11,13 +11,13 @@ folder: product1
 
 
 
-## POST /getOrderStatus
+## POST /getOrderDetails
 
-Returns the order status of the placed order
+Returns the order details of the placed order
 
 ## Resource URL
 
-/api/rest/v1/ecom/integrations/getOrderStatus
+/api/rest/v1/ecom/integrations/getOrderDetails
 
 ## Resource Information
 
@@ -35,7 +35,7 @@ Returns the order status of the placed order
 | lastName       | Optional      | Last name of the user                                        | -       | Srini             |
 | userName       | Semi Optional | username of the user(retrieved from channel of the chat bot) | -       | ram123            |
 | uuid           | Yes           | unique identifier of the user to communicate with the client,could be email id of the user/chat id etc | -       | ram123@gmail.com  |
-| interestType   | Yes           | identifier of the caller api for integrating backend client  | -       | order-status      |
+| interestType   | Yes           | identifier of the caller api for integrating backend client  | -       | order-details     |
 | languageCode   | Yes           | Language of communication                                    | en-US   | en-US/en-AU/en-UK |
 | responseType   | Yes           | type of response                                             | text    | text/card/media   |
 | simpleResponse | Semi Optional | simple text response if the responseType is "Text"           |         |                   |
@@ -60,7 +60,7 @@ Returns the order status of the placed order
     }
   },
   "queryInfo": {
-    "interestType": "order-status",
+    "interestType": "order-details",
     "parameters": {
       "params": {
         "entityInfo": {
@@ -83,6 +83,31 @@ Returns the order status of the placed order
       {
         "simpleResponse": {
           "responseText": "Order 748596 has been shipped"
+        }
+      },
+      {
+        "basicCard": {
+          "title": "Product Detail",
+          "subtitle": "This is a subtitle",
+          "formattedText": "This is a basic card.  Text in a basic card can include \"quotes\" and\n    most other unicode characters including emojis",
+          "image": {
+            "url": "https://storage.googleapis.com/logo_assistant.png",
+            "accessibilityText": "Image alternate text"
+          }
+        },
+        "mediaResponse": {
+          "mediaType": "AUDIO",
+          "mediaObjects": [
+            {
+              "contentUrl": "https://storage.googleapis.com/Jazz_In_Paris.mp3",
+              "description": "A funky Jazz tune",
+              "icon": {
+                "url": "https://storage.googleapis.com/album_art.jpg",
+                "accessibilityText": "Album cover of an ocean view"
+              },
+              "name": "Jazz in Paris"
+            }
+          ]
         }
       }
     ]
