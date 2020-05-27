@@ -55,7 +55,7 @@ entries:
       url: /p1_sample6.html
       output: web, pdf
 
-    - title: order status
+    - title: Order status
       url: /OrderStatus.html
       output: web, pdf
 
