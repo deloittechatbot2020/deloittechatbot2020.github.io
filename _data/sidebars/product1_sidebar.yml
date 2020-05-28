@@ -8,7 +8,7 @@ entries:
   folders:
 
   - title:
-    output: pdf
+    output: pdfnavbar navbar-inverse navbar-static-top
     type: frontmatter
     folderitems:
     - title:
@@ -41,4 +41,16 @@ entries:
 
     - title: User Details
       url: /UserDetails.html
+      output: web, pdf
+
+    - title: Update User Address
+      url: /UpdateUserAddress.html
+      output: web, pdf
+
+    - title: Update User Contact
+      url: /UpdateUserContact.html
+      output: web, pdf
+
+    - title: Update User Password
+      url: /UpdatePassword.html
       output: web, pdf
