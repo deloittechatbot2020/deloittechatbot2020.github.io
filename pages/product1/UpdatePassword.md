@@ -1,7 +1,7 @@
 ---
-title: Update User Password Topic (Product 1)
+title: Update User Password
 keywords: sample
-summary: "This is just a sample topic..."
+summary: "This is api document reference for update password..."
 sidebar: product1_sidebar
 permalink: UpdatePassword.html
 folder: product1

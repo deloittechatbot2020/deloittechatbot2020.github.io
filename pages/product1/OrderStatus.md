@@ -1,7 +1,7 @@
 ---
-title: Order status Topic (Product 1)
+title: Order status
 keywords: sample
-summary: "This is just a sample topic..."
+summary: "This is api document reference for order status..."
 sidebar: product1_sidebar
 permalink: OrderStatus.html
 folder: product1

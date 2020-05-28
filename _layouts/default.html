@@ -72,13 +72,15 @@
     {% endif %}
 
 </head>
-<body>
+<body style="
+    background-color: aliceblue;
+">
 {% include topnav.html %}
 <!-- Page Content -->
 <div class="container-fluid">
   <div id="main">
     <!-- Content Row -->
-    <div class="row">
+    <div class="row" >
         {% assign content_col_size = "col-md-12" %}
         {% unless page.hide_sidebar %}
             <!-- Sidebar Column -->

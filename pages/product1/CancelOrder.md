@@ -1,7 +1,7 @@
 ---
-title: Cancel Order Topic (Product 1)
+title: Cancel Order
 keywords: sample
-summary: "This is just a sample topic..."
+summary: "This is api document reference for cancel order..."
 sidebar: product1_sidebar
 permalink: CancelOrder.html
 folder: product1

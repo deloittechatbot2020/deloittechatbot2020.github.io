@@ -1,7 +1,7 @@
 ---
-title: All Data Model Topic (Product 1)
+title: All Data Model
 keywords: sample
-summary: "This is just a sample topic..."
+summary: "This is api document reference for generic data model..."
 sidebar: product1_sidebar
 permalink: AllDataModel.html
 folder: product1

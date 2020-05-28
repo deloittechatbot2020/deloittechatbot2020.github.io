@@ -23,7 +23,7 @@ entries:
   - title: api reference
     output: web, pdf
     folderitems:
-    - title: All Data Model
+    - title: Data Model
       url: /AllDataModel.html
       output: web, pdf
 

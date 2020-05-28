@@ -1,7 +1,7 @@
 ---
-title: Update User Contact Topic (Product 1)
+title: Update User Contact
 keywords: sample
-summary: "This is just a sample topic..."
+summary: "This is api document reference for update user contact..."
 sidebar: product1_sidebar
 permalink: UpdateUserContact.html
 folder: product1
