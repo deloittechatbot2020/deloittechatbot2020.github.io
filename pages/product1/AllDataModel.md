@@ -1,5 +1,5 @@
 ---
-title: All Data Model
+title: Data Model
 keywords: sample
 summary: "This is api document reference for generic data model..."
 sidebar: product1_sidebar
