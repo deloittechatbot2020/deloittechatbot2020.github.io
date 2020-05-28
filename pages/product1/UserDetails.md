@@ -1,5 +1,5 @@
 ---
-title: User Detail Topic
+title: User Details
 keywords: sample
 summary: "This is api document reference for getting user information..."
 sidebar: product1_sidebar
