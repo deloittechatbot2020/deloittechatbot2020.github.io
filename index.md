@@ -1,20 +1,20 @@
 ---
 title: Introduction
-sidebar: mydoc_sidebar
+sidebar: product1_sidebar
 permalink: mydoc_introduction.html
 folder: mydoc
 ---
 
-## Overview
+## deLEcom’s APIs - An Overview
 
-This site provides documentation, training, and other notes for the Jekyll Documentation theme. There's a lot of information about how to do a variety of things here, and it's not all unique to this theme. But by and large, understanding how to do things in Jekyll depends on how your theme is coded. As a result, these additional details are provided.
+Application Programming Interfaces power its platform for communications. Behind these APIs is a software layer connecting and optimizing communications networks around the world to allow your users to shop globally in all your mediums.
 
-The instructions here are geared towards technical writers working on documentation. You may have a team of one or more technical writers working on documentation for multiple projects. You can use this same theme to author all of your documentation for each of your products. The theme is built to accommodate documentation for multiple products on the same site.
+deLEcom has a whole host of APIs from chat bot to middleware and to client libraries vice versa, from chat sms to gateway to business! You can find deLEcom's API reference documentation throughout our product documentation.
 
-## Survey of features
+## What’s a REST API, anyway?
 
-Some of the more prominent features of this theme include the following:
-
+An [API](http://www.komposta.net/article/navgoco) is an application programming interface - in short, it’s a set of rules that lets programs talk to each other, exposing data and functionality across the internet in a consistent format.
+REST stands for 
 * Bootstrap framework
 * [Navgoco multi-level sidebar](http://www.komposta.net/article/navgoco) for table of contents
 * Ability to specify different sidebars for different products
