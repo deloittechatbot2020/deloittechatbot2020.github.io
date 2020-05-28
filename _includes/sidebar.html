@@ -1,7 +1,14 @@
 {% assign sidebar = site.data.sidebars[page.sidebar].entries %}
 
 <ul id="mysidebar" class="nav">
-  <li class="sidebarTitle">{{sidebar[0].product}} {{sidebar[0].version}}</li>
+  <li class="sidebarTitle" style="
+    margin-top: 20px;
+    font-weight: normal;
+    font-size: 130%;
+    color: #ED1951;
+    margin-bottom: 10px;
+    margin-left: 5px;
+">{{sidebar[0].product}} {{sidebar[0].version}}</li>
   {% for entry in sidebar %}
   {% for folder in entry.folders %}
   {% if folder.output contains "web" %}
