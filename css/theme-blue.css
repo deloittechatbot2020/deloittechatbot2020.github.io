@@ -103,13 +103,12 @@ div.sidebarTitle {
 }
 
 li.sidebarTitle {
-  margin-top:20px;
-    font-weight:normal;
-    font-size:130%;
-    color: #ED1951;
-    margin-bottom:10px;
-    margin-left: 5px;
-
+   margin-top: 20px;
+         font-weight: bold;
+         font-size: 130%;
+         color: #78a429;
+         margin-bottom: 10px;
+         margin-left: 5px;
 }
 
 .navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
