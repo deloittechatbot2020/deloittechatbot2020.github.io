@@ -47,7 +47,7 @@ entries:
       url: /BrowseProducts.html
       output: web, pdf
 
-    - title: Create/Place Order
+    - title: Place Order
       url: /CreateOrder.html
       output: web, pdf
 

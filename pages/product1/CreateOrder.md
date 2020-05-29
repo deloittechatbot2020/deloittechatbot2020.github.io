@@ -1,5 +1,5 @@
 ---
-title: Create/Place Order
+title: Place Order
 keywords: sample
 summary: "This is api document reference for placing the order..."
 sidebar: product1_sidebar
