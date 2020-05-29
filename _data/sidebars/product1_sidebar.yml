@@ -27,18 +27,6 @@ entries:
       url: /AllDataModel.html
       output: web, pdf
 
-    - title: Cancel Order
-      url: /CancelOrder.html
-      output: web, pdf
-
-    - title: Order status
-      url: /OrderStatus.html
-      output: web, pdf
-
-    - title: Order Details
-      url: /OrderDetails.html
-      output: web, pdf
-
     - title: User Details
       url: /UserDetails.html
       output: web, pdf
@@ -54,3 +42,25 @@ entries:
     - title: Update User Password
       url: /UpdatePassword.html
       output: web, pdf
+
+    - title: Browse/Show Products
+      url: /BrowseProducts.html
+      output: web, pdf
+
+    - title: Create/Place Order
+      url: /CreateOrder.html
+      output: web, pdf
+
+    - title: Cancel Order
+      url: /CancelOrder.html
+      output: web, pdf
+
+    - title: Order status
+      url: /OrderStatus.html
+      output: web, pdf
+
+    - title: Order Details
+      url: /OrderDetails.html
+      output: web, pdf
+
+
