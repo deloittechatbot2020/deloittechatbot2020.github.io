@@ -2,12 +2,6 @@
 ## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
 topnav:
 - title: Topnav
-  items:
-    - title: GitHub
-      external_url: https://gitlab.com/Deloitte-lab/chatbot-folks/ecommiddleware
-    - title: News
-      external_url: https://www2.deloitte.com/us/en.html
-
 #Topnav dropdowns
 topnav_dropdowns:
 - title: Topnav dropdowns
