@@ -20,7 +20,7 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: api reference
+  - title: Api references
     output: web, pdf
     folderitems:
     - title: Data Model
