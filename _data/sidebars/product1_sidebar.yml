@@ -64,17 +64,17 @@ entries:
       output: web, pdf
 
     - title: Tracking Order Details
-        url: /TrackingDetails.html
-        output: web, pdf
+      url: /TrackingDetails.html
+      output: web, pdf
 
     - title: Tracking Complaints
-        url: /TrackingComplaintsDetails.html
-        output: web, pdf
+      url: /TrackingComplaintsDetails.html
+      output: web, pdf
 
     - title: Raising Complaints
-        url: /RaisingComplaints.html
-        output: web, pdf
+      url: /RaisingComplaints.html
+      output: web, pdf
 
     - title: Policy Enquiry
-        url: /PolicyEnquiry.html
-        output: web, pdf
+      url: /PolicyEnquiry.html
+      output: web, pdf
