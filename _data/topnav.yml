@@ -10,3 +10,6 @@ topnav_dropdowns:
       folderitems:
         - title: API Reference
           url: /AllDataModel.html
+        - title: Platform Integration Reference
+          url: /TelegramIntegrationGoogleDialogFlow.html
+
