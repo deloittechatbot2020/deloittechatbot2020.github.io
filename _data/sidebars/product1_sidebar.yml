@@ -78,14 +78,3 @@ entries:
     - title: Policy Enquiry
         url: /PolicyEnquiry.html
         output: web, pdf
-
-  - title: platform implementations
-    output: web, pdf
-    folderitems:
-    - title: Whatsapp Integration - Google Dialog Flow
-      url: /WhatsappIntegrationGoogleDialogFlow.html
-      output: web, pdf
-
-    - title: Telegram Integration - Google Dialog Flow
-        url: /TelegramIntegrationGoogleDialogFlow.html
-        output: web, pdf
