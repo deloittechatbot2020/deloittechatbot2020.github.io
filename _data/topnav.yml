@@ -10,4 +10,6 @@ topnav_dropdowns:
       folderitems:
         - title: API Reference
           url: /p1_landing_page.html
+        - title: Platform Integration Reference
+            url: /TelegramIntegrationGoogleDialogFlow.html
 
