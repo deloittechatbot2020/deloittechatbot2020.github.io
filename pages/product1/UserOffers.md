@@ -60,7 +60,7 @@ https://localhost:8080/api/rest/v1/ecom/integrations/getUserOffersByUserId?uuid=
 				"offerId": 1,
 				"name": "Mega Laptop mela",
 				"offerType": "product",
-				"imageUrl": "https://nurserylive.com/images/stories/virtuemart/category/nurserylive-offers.png",
+				"imageUrl": "https://nurserylive.com/images/stories/virtuemart/category/nurserylive-off.png",
 				"isSeasonalOffer": false,
 				"offerDescription": "Up to 40% off with Back to College Offer on Laptops",
 				"validity": "45 days"
@@ -69,7 +69,7 @@ https://localhost:8080/api/rest/v1/ecom/integrations/getUserOffersByUserId?uuid=
 				"offerId": 2,
 				"name": "Diwali bonaza",
 				"offerType": "user",
-				"imageUrl": "https://nurserylive.com/images/stories/virtuemart/category/nurserylive-offers.png",
+				"imageUrl": "https://nurserylive.com/images/stories/virtuemart/category/nurserylive-off.png",
 				"isSeasonalOffer": true,
 				"offerDescription": "Buy one get one on all HDFC card users",
 				"validity": "15 days"
