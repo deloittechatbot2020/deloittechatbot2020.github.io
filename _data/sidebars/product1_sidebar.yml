@@ -79,6 +79,10 @@ entries:
       url: /PolicyEnquiry.html
       output: web, pdf
 
+    - title: User Offers
+      url: /UserOffers.html
+      output: web, pdf
+
   - title: Platform Integration Reference
     output: web, pdf
     folderitems:
